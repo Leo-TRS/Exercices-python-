@@ -4,7 +4,7 @@ Collection de programmes Python réalisés dans le cadre de mon apprentissage.
 Ces exercices couvrent les bases du langage : variables, conditions, boucles, fonctions, dictionnaires et listes.
 
 #Programmes :
-ncalculatrice.py - Calculatrice interactive (+, -, *, /, %)
+calculatrice.py - Calculatrice interactive (+, -, *, /, %)
 jeu_nombre_mystere.py - Jeu de devinette avec compteur de tentatives
 convertisseur_universel.py - Convertisseur EUR/USD, KM/Miles, Celsius/Fahrenheit
 calcul_moyenne.py - Calcul de moyenne scolaire avec résultat admis/ajourné
