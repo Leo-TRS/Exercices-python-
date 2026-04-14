@@ -18,5 +18,4 @@ Listes et compréhensions de listes
 F-strings
 import random
 
-#Auteur
 Léonard - Etudiant en Droit
