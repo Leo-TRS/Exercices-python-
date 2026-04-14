@@ -1,0 +1,18 @@
+Convertisseur Universel
+Programme de conversion en ligne de commande. Supporte trois types de conversions courantes.
+Fonctionnalités
+
+Euros vers Dollars (EUR → USD)
+Kilomètres vers Miles (KM → Miles)
+Celsius vers Fahrenheit (°C → °F)
+
+Utilisation
+choisissez la conversion : EUR -> USD // KM -> ML // C -> f
+EUR -> USD
+rentrez le nombre a convertir ici : 100
+115.0
+Concepts utilisés
+
+Dictionnaire pour stocker les taux de conversion
+input() et conversion float()
+Conditions if
