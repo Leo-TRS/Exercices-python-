@@ -1,4 +1,4 @@
-#Convertisseur unniversel
+#Convertisseur universel
 
 #Etape 1 : un menu qui propose plusieurs catégories de conversion 
 print("choisisez la conversion : EUR -> USD // KM -> ML // C -> f")
