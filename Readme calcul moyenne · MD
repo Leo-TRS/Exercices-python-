@@ -1,0 +1,22 @@
+Calcul de Moyenne
+Programme de calcul de moyenne scolaire en ligne de commande.
+Fonctionnalités
+
+Calcul de la moyenne à partir d'une liste de notes
+Résultat admis / ajourné (seuil à 10/20)
+Affichage de la note maximale et minimale
+Gestion du cas où moins de 2 notes sont entrées
+
+Utilisation
+entrez les notes : 12 15 8 17 10
+la moyenne est de : 12.4
+Vous etes admis
+la note maximale est de : 17.0
+la note la plus basse est de : 8.0
+Concepts utilisés
+
+input() et split() pour récupérer plusieurs valeurs
+Compréhension de liste [float(n) for n in ...]
+sum(), len(), min(), max()
+Conditions if / else
+F-strings
