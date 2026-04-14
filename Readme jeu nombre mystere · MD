@@ -1,0 +1,22 @@
+Jeu du Nombre Mystère
+Jeu de devinette en ligne de commande. Le programme tire un nombre aléatoire entre 1 et 100, le joueur doit le trouver en un minimum de tentatives.
+Fonctionnalités
+
+Nombre aléatoire généré entre 1 et 100
+Indications "trop grand" / "trop petit" à chaque tentative
+Compteur de tentatives affiché à la fin
+
+Utilisation
+Entrez un nombre entre 1 et 100 : 50
+trop grand !
+Entrez un nombre entre 1 et 100 : 25
+trop petit !
+Entrez un nombre entre 1 et 100 : 37
+Bravo ! Tu as trouvé au bout de : 3 tentatives
+Concepts utilisés
+
+import random et random.randint()
+Boucle while
+Conditions if
+Compteur de tentatives
+F-strings
