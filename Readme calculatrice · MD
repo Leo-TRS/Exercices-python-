@@ -1,0 +1,20 @@
+# Calculatrice
+
+Programme de calculatrice interactive en ligne de commande.
+
+## Fonctionnalités
+- Addition, soustraction, multiplication, division, modulo
+- Gestion de la division par zéro
+- Supporte les nombres décimaux
+
+## Utilisation
+Bienvenu dans la calculatrice, veuillez selectionner une operation : + - * / ou %
+entrez un nombre : 10
+entrez une operation : /
+entrez le deuxieme nombre : 2
+5.0
+
+## Concepts utilisés
+- input() et conversion float()
+- Conditions if / else
+- Gestion d'erreur division par zéro
