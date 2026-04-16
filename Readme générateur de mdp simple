@@ -15,7 +15,7 @@ chiffres ? o/n : o
 caracteres spéciaux ? o/n : n
 Le mot de passe : aB3kPm9xLq2w
 
-## Stack technique
+## concepts utilisés
 
 - `random` — sélection aléatoire de caractères
 - `string` — constantes de caractères prêtes à l'emploi
