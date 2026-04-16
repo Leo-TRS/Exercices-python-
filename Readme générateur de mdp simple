@@ -1,0 +1,25 @@
+Générateur de mot de passe personnalisable en ligne de commande.
+
+## Fonctionnalités
+
+- Longueur du mot de passe au choix
+- Choix des types de caractères : majuscules, minuscules, chiffres, caractères spéciaux
+- Génération aléatoire via "random.choice()"
+
+## Utilisation
+
+veuillez indiquer la longueur du mot de passe : 12 (par exemple)
+majuscule ? o/n : o
+minuscules ? o/n : o
+chiffres ? o/n : o
+caracteres spéciaux ? o/n : n
+Le mot de passe : aB3kPm9xLq2w
+
+## Stack technique
+
+- `random` — sélection aléatoire de caractères
+- `string` — constantes de caractères prêtes à l'emploi
+
+## Auteur
+
+Léonard 
